@@ -1,9 +1,0 @@
-#!/bin/bash
-
-# Loop to create 10 files
-for i in {1..5}
-do
-    touch "file$i.txt"
-done
-
-echo "10 files created successfully!"
